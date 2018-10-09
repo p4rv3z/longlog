@@ -18,7 +18,7 @@ allprojects {
 Add the dependency  
 ```
 dependencies {
-	        implementation 'com.github.p4rv3z:LongLog:1.0.1'
+	        implementation 'com.github.p4rv3z:longlog:1.0.1'
 	}
 ```
 
